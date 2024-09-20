@@ -1,1 +1,2 @@
-input('coisa: ')
+coisa = input('coisa: ')
+print(coisa)
